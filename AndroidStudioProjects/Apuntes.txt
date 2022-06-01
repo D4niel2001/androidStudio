@@ -1,0 +1,6 @@
+gravity:sirve para centrar las cajas
+
+margin: sirve para la ubicacion de las cajas
+
+cornerRadius: sirve para cambiar los bordes cuadrados
+ a redondos.
